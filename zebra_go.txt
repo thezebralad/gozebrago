@@ -1,0 +1,2 @@
+﻿let name = "Zebra";
+let age = "33";
